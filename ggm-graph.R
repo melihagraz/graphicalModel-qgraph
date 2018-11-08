@@ -1,6 +1,7 @@
  
-# this code use huge package, then catch the network interaction, mean it 
-# explain interaction of small network (BD graph), and then construct the graphical model
+# this code use huge package, 
+#  find the network interaction via huge 
+# construct the graphical model
 library(BDgraph)
 library(huge)
 library(qgraph)
