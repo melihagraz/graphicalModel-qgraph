@@ -1,5 +1,3 @@
 # graphicalModel-qgraph
 
-
- this code use huge package, then catch the network interaction, mean it 
- explain interaction of small network (BD graph), and then construct the graphical model
+This code contains  60-100 dimensional genetic real dataset (BDgraph package). 
